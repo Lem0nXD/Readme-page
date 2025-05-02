@@ -1,5 +1,5 @@
 - Hi, I’m Vlad
-- I’m interested in making games
+- I’m interested in making games and desktop applications
 - I’m currently learning C++ and UE5
 
 <!---
